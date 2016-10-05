@@ -15,3 +15,10 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+/project/
+/hello.iws
+/hello.ipr
+/atlassian-ide-plugin.xml
+.idea/atlassian-ide-plugin.xml
+.idea/modules/root-build.iml
+.idea/modules/root.iml
